@@ -1,0 +1,9 @@
+Assets/Standard\ Assets
+Library
+Builds
+Temp
+Logs
+obj
+.DS_Store*
+*.csproj
+.vs
